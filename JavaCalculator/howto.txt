@@ -1,0 +1,28 @@
+Terminal Calculator is a simple application meant to take as little space as possible, while providing as much function as possible. The following is a list of all usable keywords within the application.
+
+add - is used to add two values.
+sub - is used to subtract one value from another, where minuend is entered first, subtrahend second.
+div - is used to divide a value by another value, where dividend is entered first, divisor second.
+mul - is used to multiply two values.
+mod - is used to calculate the modulus remainder of a value, where 101 mod 10 is 1.
+abs - will return the Absolute value of the given value.
+round - used to round of the decimal numbers to the nearest value.
+sqrt - used to return the square root of a number.
+cbrt - used to return the cube root of a number.
+pow - returns the value of first argument raised to the power to second argument.
+random - returns a double value with a positive sign, greater than or equal to 0.0 and less than 1.0.
+log - returns the natural logarithm of a double value.
+log10 - is used to return the base 10 logarithm of a double value.
+log1p - returns the natural logarithm of the sum of the argument and 1.
+exp - returns E raised to the power of a double value, where E is Euler's number and it is approximately equal to 2.71828.
+sin - is used to return the trigonometric Sine value of a given double value.
+cos - is used to return the trigonometric Cosine value of a given double value.
+tan - is used to return the trigonometric Tangent value of a given double value.
+asin - is used to return the trigonometric Arc Sine value of a given double value
+acos - is used to return the trigonometric Arc Cosine value of a given double value.
+atan - is used to return the trigonometric Arc Tangent value of a given double value.
+sinh - is used to return the trigonometric Hyperbolic Cosine value of a given double value.
+cosh - is used to return the trigonometric Hyperbolic Sine value of a given double value.
+tanh - is used to return the trigonometric Hyperbolic Tangent value of a given double value.
+degrees	- is used to convert the specified Radians angle to equivalent angle measured in Degrees.
+radians	- is used to convert the specified Degrees angle to equivalent angle measured in Radians.
