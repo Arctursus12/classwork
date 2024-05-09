@@ -246,7 +246,7 @@ class Pokémon{ //i am actually somewhat proud of how well i remembered how to w
         return def;}
     public int statLevel(){
         return level;} //now, is this ideal? probably not, but i don't really care, it works
-    public static double levelHPCalc(int level, double baseHP){ //i pretty much ripped these 3 from charles 
+    public static double levelHPCalc(int level, double baseHP){ //i pretty much ripped these 3 from irl friend 
         double number = 11;
         for(int i=1;i<level;i++){
             number = number+((baseHP*0.02)+1);}
